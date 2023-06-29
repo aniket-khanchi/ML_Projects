@@ -14,4 +14,6 @@ df.columns=headers
 
 # df.to_csv("german_data_credit_cat.csv",index=False) #save as csv file
 
+print(df.head())
+
 
